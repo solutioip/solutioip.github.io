@@ -1,2 +1,0 @@
-function wpcom_custom_jumplist_reader(){window.external.msSiteModeCreateJumplist("Posts recentes");window.external.msSiteModeAddJumpListItem("Ol\u00e1 Mundo!","https://solutioip.wordpress.com/2023/08/31/hello-world/","https://s1.wp.com/i/favicon.ico");}
-try{if(window.external && 'msIsSiteMode' in window.external){if (window.external.msIsSiteMode()){wpcom_custom_jumplist_reader();wpcom_sitemode_comment_notify();}}}catch(e){}
